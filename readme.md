@@ -27,7 +27,6 @@ This project demonstrates fixing, refactoring, and enhancing a broken pricing ca
 | Commit     | Description                                         | AI Prompt                                                                                                  | Screenshot|
 |------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------|
 | Commit 1   | Initial commit: Add broken pricing card with issues | `Here is a broken pricing card HTML/CSS/JS snippet. It has layout issues and unresponsive button styles.`    |![version0](./first.png)|
-
 | Commit 2   | Fix CSS syntax errors and layout                     | `Fix all CSS errors, correct layout problems, and ensure consistent spacing and alignment.`                |![version1](./second.png)|
 | Commit 3   | Improve button responsiveness and hover effect      | `Add hover effects and accessible button styling for better UX.`                                          |![version2](./third.png)|
 | Commit 4  & 5 | Refactor into reusable React component               | `Refactor it into a reusable component (Card with props: title, price, features, buttonLabel).`             |![version3](./final.png)|
